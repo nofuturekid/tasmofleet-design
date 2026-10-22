@@ -22,7 +22,8 @@ Every published round stays clickable:
 
 | Version | What changed |
 |---|---|
-| [v5](https://nofuturekid.github.io/tasmofleet-design/versions/v5/) (current) | Full-width layout again; policy version history. |
+| [v6](https://nofuturekid.github.io/tasmofleet-design/versions/v6/) (current) | Back to the v3 layout (content capped at ~1580 px, centred; top bar aligned to it); plain ring logo. |
+| [v5](https://nofuturekid.github.io/tasmofleet-design/versions/v5/) | Full-width layout; policy version history. |
 | [v4](https://nofuturekid.github.io/tasmofleet-design/versions/v4/) | TasmoFleet brand and logo, Required/Advisory, Light/Dark/Auto, two-sided column pinning, Styleguide, new settings, drift/restore/prune/preview screens, policy import/export and history. |
 | [v3](https://nofuturekid.github.io/tasmofleet-design/versions/v3/) | Bulk power on/off, "check for new releases now", policy live-check status, About components. |
 | [v2](https://nofuturekid.github.io/tasmofleet-design/versions/v2/) | Sign-in, setup, errors, backup compare, bulk pages, release notes, what's new, user management, proposals, backups retention, policy rule management, layout stability, table columns. |
